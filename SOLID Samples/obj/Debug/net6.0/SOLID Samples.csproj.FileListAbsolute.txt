@@ -1,0 +1,33 @@
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\bin\Debug\net6.0\appsettings.Development.json
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\bin\Debug\net6.0\appsettings.json
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\bin\Debug\net6.0\SOLID Samples.exe
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\bin\Debug\net6.0\SOLID Samples.deps.json
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\bin\Debug\net6.0\SOLID Samples.runtimeconfig.json
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\bin\Debug\net6.0\SOLID Samples.dll
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\bin\Debug\net6.0\SOLID Samples.pdb
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\SOLID Samples.csproj.AssemblyReference.cache
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\SOLID Samples.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\SOLID Samples.AssemblyInfoInputs.cache
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\SOLID Samples.AssemblyInfo.cs
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\SOLID Samples.csproj.CoreCompileInputs.cache
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\SOLID Samples.MvcApplicationPartsAssemblyInfo.cs
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\SOLID Samples.MvcApplicationPartsAssemblyInfo.cache
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\staticwebassets\msbuild.SOLID Samples.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\staticwebassets\msbuild.build.SOLID Samples.props
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SOLID Samples.props
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SOLID Samples.props
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\staticwebassets.pack.json
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\staticwebassets.build.json
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\staticwebassets.development.json
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\scopedcss\bundle\SOLID Samples.styles.css
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\SOLID Samples.csproj.CopyComplete
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\SOLID Samples.dll
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\refint\SOLID Samples.dll
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\SOLID Samples.pdb
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\SOLID Samples.genruntimeconfig.cache
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\obj\Debug\net6.0\ref\SOLID Samples.dll
+C:\ProjectsWarehouse\SOLID Samples\SOLID Samples\bin\Debug\net6.0\WeatherDb.json
